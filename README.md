@@ -1,2 +1,2 @@
-# Dot_We
-IT Development Module
+# dotWeDraft
+A working draft of out website
